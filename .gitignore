@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Dados do projeto (nunca subir)
+baseline.json
+*.log
+teste/
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
