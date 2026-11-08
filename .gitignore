@@ -7,11 +7,12 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
-# Dados do projeto (nunca subir)
+# Dados do projeto (nunca subir plmds)
 baseline.json
 *.log
 teste/
-
+*.bin
+texto.txt
 # Editor / sistema
 .vscode/
 .idea/
